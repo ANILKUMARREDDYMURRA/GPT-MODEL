@@ -1,0 +1,9 @@
+cuda311/
+fcc-gpt/chatbot.py
+fcc-gpt/dataextract.py 
+fcc-gpt/model_01.pkl
+fcc-gpt/train_split.txt
+fcc-gpt/training.py 
+fcc-gpt/val_split.txt 
+fcc-gpt/vocab.txt 
+fcc-gpt/.ipynb_checkpoints
